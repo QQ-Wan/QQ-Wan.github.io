@@ -3,9 +3,9 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav_order: 3
+cv_pdf: cv_qianqian_wan.pdf
+description: CV for Qianqian Wan. Download the PDF using the button above.
 toc:
   sidebar: left
 ---

@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, <a href='https://mindbrain.ucdavis.edu/'>Center for Mind and Brain</a>, UC Davis
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Center for Mind and Brain</p>
+    <p>University of California, Davis</p>
+    <p>Davis, CA, USA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I study how attention shapes knowledge construction across development. Using behavioral experiments, immersive virtual reality, and neuroimaging, I investigate how attention determines what gets encoded from experience and how those encodings become structured knowledge.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work spans three interconnected areas: how working memory constrains attentional selectivity during category learning, how developmental differences in attention explain exploration behavior, and how goal-directed attention shapes hippocampal spatial representations. This research has implications for understanding both typical development and conditions characterized by atypical attention.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I completed my Ph.D. in Psychology at The Ohio State University, advised by [Vladimir Sloutsky](https://cogdev.osu.edu/). I am currently a postdoctoral researcher at UC Davis, working with [Charan Ranganath](https://dynamic-memory.ucdavis.edu/) and [Joy Geng](https://genglab.ucdavis.edu/).

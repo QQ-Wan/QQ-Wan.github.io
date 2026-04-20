@@ -2,11 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses taught at The Ohio State University.
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Instructor
 
-Organize your courses by years, topics, or universities, however you like!
+**Introduction to Psychology** — The Ohio State University (Aug 2023 – Dec 2024)
+- Designed weekly in-class experiments; students participated in demonstrations before learning theoretical frameworks
+
+## Teaching Assistant
+
+The Ohio State University (Aug 2021 – May 2023)
+- Lifespan Development
+- Adolescence
+- Psychology of Adjustment
+- Psychology of Motivation
+- Psychology of Developmental Disabilities
+- Psychology of Childhood
+- Cognitive Aging, Neurodegeneration, and Neuroplasticity

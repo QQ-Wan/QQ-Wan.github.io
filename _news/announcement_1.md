@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started postdoctoral position at UC Davis Center for Mind and Brain, working with Charan Ranganath and Joy Geng.
