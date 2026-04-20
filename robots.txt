@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://QQ-Wan.github.io/sitemap.xml
