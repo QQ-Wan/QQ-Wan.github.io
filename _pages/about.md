@@ -22,4 +22,4 @@ I study how attention shapes knowledge construction across development. Using be
 
 My work spans three interconnected areas: how working memory constrains attentional selectivity during category learning, how developmental differences in attention explain exploration behavior, and how goal-directed attention shapes hippocampal spatial representations. This research has implications for understanding both typical development and conditions characterized by atypical attention.
 
-I completed my Ph.D. in Psychology at The Ohio State University, advised by [Vladimir Sloutsky](https://cogdev.osu.edu/). I am currently a postdoctoral researcher at UC Davis, working with [Charan Ranganath](https://dynamic-memory.ucdavis.edu/) and [Joy Geng](https://genglab.ucdavis.edu/).
+I completed my Ph.D. in Psychology at The Ohio State University, advised by [Vladimir Sloutsky](https://psychology.osu.edu/people/sloutsky.1). I am currently a postdoctoral researcher at UC Davis, working with [Charan Ranganath](https://psychology.ucdavis.edu/people/charan) and [Joy Geng](https://psychology.ucdavis.edu/people/jgeng).
