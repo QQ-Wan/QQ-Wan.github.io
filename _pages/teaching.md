@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Courses taught at The Ohio State University.
-nav: true
+nav: false
 nav_order: 2
 ---
 
