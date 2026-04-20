@@ -17,7 +17,7 @@ layout: default
   <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
-        <div id="room3d-container" style="width: 100%; aspect-ratio: 1 / 1; border-radius: 0.375rem; overflow: hidden; cursor: grab;" class="z-depth-1"></div>
+        <div id="room3d-container" data-panorama="{{ '/assets/img/profile.png' | relative_url }}" style="width: 100%; aspect-ratio: 1 / 1; border-radius: 0.375rem; overflow: hidden; cursor: grab;" class="z-depth-1"></div>
         {% if page.profile.more_info %}
           <div class="more-info">{{ page.profile.more_info }}</div>
         {% endif %}
